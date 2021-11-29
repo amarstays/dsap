@@ -1,0 +1,19 @@
+{
+  "name": "dsap",
+  "version": "1.0.0",
+  "description": "Data Structure and Algo practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarstays/dsap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarstays/dsap/issues"
+  },
+  "homepage": "https://github.com/amarstays/dsap#readme"
+}
